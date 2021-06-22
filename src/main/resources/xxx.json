@@ -1,0 +1,27 @@
+{
+  "resultList": [
+    {
+      "vaccinationCenterPk": 674114852521473,
+      "name": "Gruppen Termine IZ Braunschweig ",
+      "streetName": "St. Leonhard",
+      "streetNumber": "14",
+      "zipcode": "38102",
+      "city": "Braunschweig",
+      "scheduleSaturday": false,
+      "scheduleSunday": false,
+      "vaccinationCenterType": 4,
+      "vaccineName": "BioNtech",
+      "vaccineType": "mRNA",
+      "interval1to2": 42,
+      "offsetStart2Appointment": 0,
+      "offsetEnd2Appointment": 10,
+      "distance": 5,
+      "outOfStock": true,
+      "firstAppoinmentDateSorterOnline": 1625608800000,
+      "freeSlotSizeOnline": 110,
+      "maxFreeSlotPerDay": 20,
+      "publicAppointment": false
+    }
+  ],
+  "succeeded": true
+}
