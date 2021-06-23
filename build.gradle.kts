@@ -33,3 +33,11 @@ tasks.withType<KotlinCompile> {
 tasks.withType<Test> {
     useJUnitPlatform()
 }
+
+tasks.jar {
+    manifest {
+        resources
+        attributes( "Main-Class" to "de.tiupe.impftermine.ImpftermineApplicationKt")
+
+    }
+}
